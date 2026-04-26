@@ -18,13 +18,14 @@
 <br/>
 
 <!-- SCREENSHOTS -->
-<!--
 <p align="center">
-  <img src="docs/screenshots/main.png" width="30%" alt="Main Screen"/>
+  <img src="https://ibb.co/9kHCP6k1" width="30%" alt="Main Screen"/>
   &nbsp;&nbsp;
-  <img src="docs/screenshots/qr.png" width="30%" alt="Generated QR"/>
+  <img src="https://ibb.co/2Yc7Kqv4" width="30%" alt="Generated QR"/>
   &nbsp;&nbsp;
-  <img src="docs/screenshots/about.png" width="30%" alt="About Screen"/>
+  <img src="https://ibb.co/6Jvxn01w" width="30%" alt="About Screen 1"/>
+  <img src="https://ibb.co/S4qRgzjh" width="30%" alt="About Screen 2"/>
+  <img src="https://ibb.co/TB6sC3z1" width="30%" alt="History"/>
 </p>
 -->
 </div>
