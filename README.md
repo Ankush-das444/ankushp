@@ -21,11 +21,11 @@
 <p align="center">
   <img src="https://i.ibb.co/bM58tTMC/Screenshot-20260426-220628.jpg" alt="Screenshot 20260426 220628" border="0" width="30%" alt="Main Screen"/>
   &nbsp;&nbsp;
-  <img src="https://ibb.co/2Yc7Kqv4" width="30%" alt="Generated QR"/>
+<img src="https://i.ibb.co/5xsWcTrH/Screenshot-20260426-220652.jpg" alt="Screenshot 20260426 220652" border="0" width="30%" alt="Generated QR"/>
   &nbsp;&nbsp;
-  <img src="https://ibb.co/6Jvxn01w" width="30%" alt="About Screen 1"/>
-  <img src="https://ibb.co/S4qRgzjh" width="30%" alt="About Screen 2"/>
-  <img src="https://ibb.co/TB6sC3z1" width="30%" alt="History"/>
+<img src="https://i.ibb.co/CsJZ1KM8/Screenshot-20260426-220658.jpg" alt="Screenshot 20260426 220658" border="0" width="30%" alt="About Screen 1"/>
+<img src="https://i.ibb.co/6JnD8dvF/Screenshot-20260426-213521.jpg" alt="Screenshot 20260426 213521" border="0" width="30%" alt="About Screen 2"/>
+<img src="https://i.ibb.co/MDrmX0qf/Screenshot-20260426-220707.jpg" alt="Screenshot 20260426 220707" border="0" width="30%" alt="History"/>
 </p>
 </div>
 
