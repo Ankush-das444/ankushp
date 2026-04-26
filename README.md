@@ -19,7 +19,7 @@
 
 <!-- SCREENSHOTS -->
 <p align="center">
-  <img src="https://ibb.co/9kHCP6k1" width="30%" alt="Main Screen"/>
+  <img src="https://i.ibb.co/bM58tTMC/Screenshot-20260426-220628.jpg" alt="Screenshot 20260426 220628" border="0" width="30%" alt="Main Screen"/>
   &nbsp;&nbsp;
   <img src="https://ibb.co/2Yc7Kqv4" width="30%" alt="Generated QR"/>
   &nbsp;&nbsp;
