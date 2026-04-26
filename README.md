@@ -27,7 +27,6 @@
   <img src="https://ibb.co/S4qRgzjh" width="30%" alt="About Screen 2"/>
   <img src="https://ibb.co/TB6sC3z1" width="30%" alt="History"/>
 </p>
--->
 </div>
 
 ---
