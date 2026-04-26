@@ -5,8 +5,8 @@
 ### Instant UPI QR Generator — Privacy-First · 100% Offline · Open Source
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-4F46E5?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
-[![Latest Release](https://img.shields.io/github/v/release/ankushp/paylink?style=for-the-badge&logo=github&color=4F46E5&logoColor=white)](https://github.com/ankushp/paylink/releases/latest)
-[![Platform](https://img.shields.io/badge/Platform-Android-4F46E5?style=for-the-badge&logo=android&logoColor=white)](https://github.com/ankushp/paylink/releases)
+[![Latest Release](https://img.shields.io/github/v/release/Ankush-das444/paylink?style=for-the-badge&logo=github&color=4F46E5&logoColor=white)](https://github.com/Ankush-das444/paylink/releases/latest)
+[![Platform](https://img.shields.io/badge/Platform-Android-4F46E5?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Ankush-das444/paylink/releases)
 [![Built with Compose](https://img.shields.io/badge/Jetpack_Compose-UI-818CF8?style=for-the-badge&logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose)
 [![AndroidIDE](https://img.shields.io/badge/Built_on_Phone-AndroidIDE-10B981?style=for-the-badge&logo=android&logoColor=white)](https://androidide.com)
 
@@ -27,9 +27,6 @@
   <img src="docs/screenshots/about.png" width="30%" alt="About Screen"/>
 </p>
 -->
-
-*📸 Screenshots coming soon — contributions welcome!*
-
 </div>
 
 ---
@@ -48,13 +45,13 @@ Whether you're a street vendor, a freelancer, or just splitting a bill — PayLi
 
 | Platform | Status |
 |---|---|
-| 🤖 **GitHub Releases** | [![Download](https://img.shields.io/github/v/release/ankushp/paylink?label=Download&style=flat-square&color=4F46E5)](https://github.com/ankushp/paylink/releases/latest) |
+| 🤖 **GitHub Releases** | [![Download](https://img.shields.io/github/v/release/Ankush-das444/paylink?label=Download&style=flat-square&color=4F46E5)](https://github.com/Ankush-das444/paylink/releases/latest) |
 | 📦 **F-Droid** | *Submission in progress* |
 | 🌐 **Orion Store** | *Coming soon* |
 
 </div>
 
-> **Sideloading:** Download the latest `.apk` from [Releases](https://github.com/ankushp/paylink/releases/latest) and install directly. Enable *"Install from unknown sources"* in your Android settings if prompted.
+> **Sideloading:** Download the latest `.apk` from [Releases](https://github.com/Ankush-das444/paylink/releases/latest) and install directly. Enable *"Install from unknown sources"* in your Android settings if prompted.
 
 ---
 
@@ -123,7 +120,7 @@ PayLink is optimized to compile in [AndroidIDE](https://androidide.com) directly
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/ankushp/paylink.git
+git clone https://github.com/Ankush-das444/paylink.git
 cd paylink
 
 # 2. Open in AndroidIDE or Android Studio
@@ -131,10 +128,10 @@ cd paylink
 # 3. Sync Gradle and resolve dependencies
 
 # 4. Build the debug APK
-./gradlew assembleDebug
+./gradlew assembleRelease
 
 # 5. Install on a connected device
-./gradlew installDebug
+./gradlew installRelease
 ```
 
 ### Dependencies (`build.gradle`)
@@ -158,7 +155,7 @@ dependencies {
 The update checker is deliberately minimal and transparent:
 
 1. User taps **"Check for Updates"** on the About screen
-2. App makes a single `GET` request to `https://api.github.com/repos/ankushp/paylink/releases/latest`
+2. App makes a single `GET` request to `https://api.github.com/repos/Ankush-das444/paylink/releases/latest`
 3. Parses the `tag_name` field from the JSON response
 4. Compares against the `CURRENT_VERSION` constant baked into the build
 5. If they differ → shows a green **"Download vX.Y.Z"** button pointing to the GitHub Releases page
@@ -191,7 +188,7 @@ Contributions are warmly welcomed! Here's how to get started:
 
 Developed with ❤️ by **Ankush Das**
 
-- GitHub: [@ankushp](https://github.com/ankushp)
+- GitHub: [@ankushp](https://github.com/Ankush-das444/)
 - Built 100% on Android using [AndroidIDE](https://androidide.com)
 
 ---
@@ -201,7 +198,7 @@ Developed with ❤️ by **Ankush Das**
 ```
 MIT License
 
-Copyright (c) 2024 Ankush Das
+Copyright (c) 2026 Ankush Das
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -224,6 +221,6 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 **If PayLink saved you time, consider starring ⭐ the repo — it helps more people find it.**
 
-[![Star on GitHub](https://img.shields.io/github/stars/ankushp/paylink?style=social)](https://github.com/ankushp/paylink)
+[![Star on GitHub](https://img.shields.io/github/stars/ankushp/paylink?style=social)](https://github.com/Ankush-das444/paylink)
 
 </div>
