@@ -176,12 +176,6 @@ Contributions are warmly welcomed! Here's how to get started:
 4. **Push** to the branch: `git push origin feature/your-feature-name`
 5. **Open** a Pull Request with a clear description
 
-### Good First Issues
-- Add UI screenshots to `docs/screenshots/`
-- Add more quick-preset amount chips
-- Localize strings for regional languages
-- F-Droid metadata (`fastlane/` structure)
-
 ---
 
 ## 👤 Credits
